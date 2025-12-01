@@ -1,8 +1,8 @@
 # SYSC4001 Assignment 3 - Part 2
 
 **Students:**
-- 101301663
-- 101296637
+- Vlad Myrutenko: 101301663
+- Dante Gyetko: 101296637
 
 ## Compilation Instructions
 ```
